@@ -1,0 +1,535 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.14f1 (d0d1bb862f9d) revision 13685179'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19042.1288; Version 2009; 64bit' Language: 'fr' Physical Memory: 16225 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.14f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/HP USER/Desktop/Nouveau dossier/Stay safe
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49471
+Successfully changed project path to: C:/Users/HP USER/Desktop/Nouveau dossier/Stay safe
+C:/Users/HP USER/Desktop/Nouveau dossier/Stay safe
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 59.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.14f1 (d0d1bb862f9d)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/HP USER/Desktop/Nouveau dossier/Stay safe/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f91)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   30.0.14.7111
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56696
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004459 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 57.44 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.964 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1964ms)
+		BeginReloadAssembly (99ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (749ms)
+			LoadAssemblies (96ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (288ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (58ms)
+			SetupLoadedEditorAssemblies (283ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (58ms)
+				BeforeProcessingInitializeOnLoad (25ms)
+				ProcessInitializeOnLoadAttributes (140ms)
+				ProcessInitializeOnLoadMethodAttributes (51ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006060 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.854 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1855ms)
+		BeginReloadAssembly (273ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (33ms)
+		EndReloadAssembly (1465ms)
+			LoadAssemblies (164ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (534ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (82ms)
+			SetupLoadedEditorAssemblies (520ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (12ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (142ms)
+				ProcessInitializeOnLoadAttributes (343ms)
+				ProcessInitializeOnLoadMethodAttributes (8ms)
+				AfterProcessingInitializeOnLoad (12ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.70 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1419 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.5 MB.
+System memory in use after: 69.6 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1856.
+Total: 3.960800 ms (FindLiveObjects: 0.388700 ms CreateObjectMapping: 0.162400 ms MarkObjects: 3.283800 ms  DeleteObjects: 0.123700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Simple city plain/Prefabs/Building_I_2_Prefab.prefab
+  artifactKey: Guid(1e198ff9400b5064c816d8f779eff296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Prefabs/Building_I_2_Prefab.prefab using Guid(1e198ff9400b5064c816d8f779eff296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '888b2e7e44662597c00ab4e33f823a93') in 0.179227 seconds 
+  Import took 0.185939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/Simple city plain/Prefabs/Building_I_1_prefab.prefab
+  artifactKey: Guid(931ecb32d754b3f40afc9a688c8cea66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Prefabs/Building_I_1_prefab.prefab using Guid(931ecb32d754b3f40afc9a688c8cea66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fee2308776a45bb8433ae75064ebf309') in 0.023936 seconds 
+  Import took 0.030590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Simple city plain/Prefabs/Stone Floor prefab.prefab
+  artifactKey: Guid(ffa4d200e6c7d9c4b90b3764b7ed86d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Prefabs/Stone Floor prefab.prefab using Guid(ffa4d200e6c7d9c4b90b3764b7ed86d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fd3b88eea203d7b433d20d158d36a7b') in 0.017195 seconds 
+  Import took 0.022965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000547 seconds.
+  path: Assets/Simple city plain/Prefabs/Building_M_prefab.prefab
+  artifactKey: Guid(84bb406b82cecb24cb1ffe5d4359339d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Prefabs/Building_M_prefab.prefab using Guid(84bb406b82cecb24cb1ffe5d4359339d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5e27b8b4e133533197db78d7aa9995c') in 0.022952 seconds 
+  Import took 0.029090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Simple city plain/Prefabs
+  artifactKey: Guid(9b3f41c9510b3cd43a8766a508dc6635) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Prefabs using Guid(9b3f41c9510b3cd43a8766a508dc6635) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60bf2bc53ed59d2a46cea93c2c520f29') in 0.004966 seconds 
+  Import took 0.010353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Simple city plain/Prefabs/bench prefab.prefab
+  artifactKey: Guid(80c5916b9606ce646be16611d9a06d13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Prefabs/bench prefab.prefab using Guid(80c5916b9606ce646be16611d9a06d13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a1fb54811653ec48c2f30ce39dd74b7') in 0.017285 seconds 
+  Import took 0.022907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Simple city plain/Prefabs/Street 3 Prefab.prefab
+  artifactKey: Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Prefabs/Street 3 Prefab.prefab using Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1cc3262830d4c8bcc06a994ddc9b634') in 0.018146 seconds 
+  Import took 0.024332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Simple city plain/Prefabs/Building_A1_prefab.prefab
+  artifactKey: Guid(562df8355904213468a690c4ce6740b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Prefabs/Building_A1_prefab.prefab using Guid(562df8355904213468a690c4ce6740b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b61d997a0799c5ceadb50f7b5df2c03') in 0.023903 seconds 
+  Import took 0.029792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000420 seconds.
+  path: Assets/Simple city plain/Prefabs/Pot_tree prefab.prefab
+  artifactKey: Guid(8e00364320862a746a6e67a5af5e5979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Prefabs/Pot_tree prefab.prefab using Guid(8e00364320862a746a6e67a5af5e5979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad1a2e0131af2ffdbe86069ed189bb8d') in 0.019844 seconds 
+  Import took 0.026204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Simple city plain/Prefabs/ColaMachine prefab.prefab
+  artifactKey: Guid(2bf7da734f1a8224fb14055902b5b343) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Prefabs/ColaMachine prefab.prefab using Guid(2bf7da734f1a8224fb14055902b5b343) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '787a10db6197c006b3f025ef1b62dc08') in 0.016231 seconds 
+  Import took 0.020470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Simple city plain/Prefabs/Building_N_Prefab.prefab
+  artifactKey: Guid(bbad862e7e06efe4a8ad0346a53e3cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Prefabs/Building_N_Prefab.prefab using Guid(bbad862e7e06efe4a8ad0346a53e3cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f9f7e23362c1161ec754d73d988fd2b') in 0.016600 seconds 
+  Import took 0.021401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Simple city plain/Prefabs/Shop_B_prefab.prefab
+  artifactKey: Guid(9a52ba64c3a0abf49ad9515917ade04b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Prefabs/Shop_B_prefab.prefab using Guid(9a52ba64c3a0abf49ad9515917ade04b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d2e62788998e0dc0029f05d49554df3') in 0.022651 seconds 
+  Import took 0.027776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Simple city plain/Prefabs/Tree prefab.prefab
+  artifactKey: Guid(1be61187b5d765449be824463642cb0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Prefabs/Tree prefab.prefab using Guid(1be61187b5d765449be824463642cb0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef2ef97d9402f84294c2ccb704cf1cae') in 0.016288 seconds 
+  Import took 0.022996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Simple city plain/Prefabs/Sideway Prefab.prefab
+  artifactKey: Guid(a9da80f587bbf9046aefc4a4cfb8a7fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Prefabs/Sideway Prefab.prefab using Guid(a9da80f587bbf9046aefc4a4cfb8a7fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c474fc3239c66d595fd49dbb6bdac143') in 0.014956 seconds 
+  Import took 0.020069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000427 seconds.
+  path: Assets/Simple city plain/Prefabs/street_lamp 1 prefab.prefab
+  artifactKey: Guid(6825a3fe8a1605f42a0d0589e582ac40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Prefabs/street_lamp 1 prefab.prefab using Guid(6825a3fe8a1605f42a0d0589e582ac40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9695b29087a308eb10d94509605643bc') in 0.017200 seconds 
+  Import took 0.022584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/Simple city plain/Prefabs/Big_trash_bin prefab.prefab
+  artifactKey: Guid(331560f2206dc024cb084301a19c05ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple city plain/Prefabs/Big_trash_bin prefab.prefab using Guid(331560f2206dc024cb084301a19c05ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a08f5e34706e7aefd6cf1eae4bdae51') in 0.019225 seconds 
+  Import took 0.025280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.772887 seconds.
+  path: Assets/mixamo/Ch22/Ch22_1001_Diffuse.png
+  artifactKey: Guid(70bffd57abd3d164fb2b9ddbd55ece2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mixamo/Ch22/Ch22_1001_Diffuse.png using Guid(70bffd57abd3d164fb2b9ddbd55ece2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c08b0a8db7d642e5a30abaaa0adc8381') in 0.097286 seconds 
+  Import took 0.102163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/mixamo/Ch22/Ch22_1002_Diffuse.png
+  artifactKey: Guid(3464d7d6d96506a49841c40126d1e829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mixamo/Ch22/Ch22_1002_Diffuse.png using Guid(3464d7d6d96506a49841c40126d1e829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ae1665e8350e69cac01dffa9665e490') in 0.022391 seconds 
+  Import took 0.027576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/mixamo/Ch22/Ch22_1001_Specular.png
+  artifactKey: Guid(cb8aaee7709355749affd0fa2aa53e1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mixamo/Ch22/Ch22_1001_Specular.png using Guid(cb8aaee7709355749affd0fa2aa53e1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1b7eb8c96e1f33579c5b6d5821cbce2') in 0.019908 seconds 
+  Import took 0.024910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/mixamo/Ch22/Ch22_1001_Normal.png
+  artifactKey: Guid(7728f28e7996095478f8fba1dab380e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mixamo/Ch22/Ch22_1001_Normal.png using Guid(7728f28e7996095478f8fba1dab380e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c130b96e2de884d18705f98cb57ccc3') in 0.027964 seconds 
+  Import took 0.035217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/mixamo/Ch22/Ch22_hair.mat
+  artifactKey: Guid(9568bbc85c1546f42869a578154e7445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mixamo/Ch22/Ch22_hair.mat using Guid(9568bbc85c1546f42869a578154e7445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c85b03d8d30103160e0813ed7227f5a') in 0.052236 seconds 
+  Import took 0.058895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/mixamo/Ch22/Ch22_1002_Normal.png
+  artifactKey: Guid(b019477f7e6f17843912d76182060f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mixamo/Ch22/Ch22_1002_Normal.png using Guid(b019477f7e6f17843912d76182060f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6da9aa8b63a689b3576f1aa38a32ae46') in 0.023366 seconds 
+  Import took 0.030154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/mixamo/Ch22/Ch22_body.mat
+  artifactKey: Guid(c26951aee6293144287109f8e800d772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mixamo/Ch22/Ch22_body.mat using Guid(c26951aee6293144287109f8e800d772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98a91e69938b3ecd9adeb7113c52d01f') in 0.020203 seconds 
+  Import took 0.025879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/mixamo/Ch22/Ch22_1001_Glossiness.png
+  artifactKey: Guid(1cc5ab234b39998499a5e876d6646b89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mixamo/Ch22/Ch22_1001_Glossiness.png using Guid(1cc5ab234b39998499a5e876d6646b89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1475a3ffc219b45289ddb418ab12b0bc') in 0.021323 seconds 
+  Import took 0.026461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.612700 seconds.
+  path: Assets/mixamo/remy.fbm/Remy_Body_Diffuse.png
+  artifactKey: Guid(0a2b252ea3a025e4db23506e47a56edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mixamo/remy.fbm/Remy_Body_Diffuse.png using Guid(0a2b252ea3a025e4db23506e47a56edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1af2ea1e2dca9b7c14b8d47a0594dec1') in 0.015329 seconds 
+  Import took 0.020585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000437 seconds.
+  path: Assets/mixamo/remy.fbm/Remy_Bottom_Specular.png
+  artifactKey: Guid(1d9ba22e715f0b44091eb8201bba1c15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mixamo/remy.fbm/Remy_Bottom_Specular.png using Guid(1d9ba22e715f0b44091eb8201bba1c15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cfcb458f7ba266a96f2575ae8119f02') in 0.013650 seconds 
+  Import took 0.018256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/mixamo/remy.fbm/Remy_Bottom_Normal.png
+  artifactKey: Guid(aee1c9da7c6b5f044b69b4764b8da634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mixamo/remy.fbm/Remy_Bottom_Normal.png using Guid(aee1c9da7c6b5f044b69b4764b8da634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87f63a8318fd19b7a9cdaeec8cdbcbae') in 0.013033 seconds 
+  Import took 0.017328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/mixamo/remy.fbm/Remy_Top_Gloss.png
+  artifactKey: Guid(1121b86a0b69b2a4da3fa62b2978bf6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mixamo/remy.fbm/Remy_Top_Gloss.png using Guid(1121b86a0b69b2a4da3fa62b2978bf6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba386715a33809277749b6039c59cd8f') in 0.013908 seconds 
+  Import took 0.018852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/mixamo/remy.fbm/Remy_Hair_Opacity.png
+  artifactKey: Guid(77fe85bc0a980744991c17e5c8ecdfcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mixamo/remy.fbm/Remy_Hair_Opacity.png using Guid(77fe85bc0a980744991c17e5c8ecdfcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52f6f51ea07430d4c720364695a17337') in 0.014680 seconds 
+  Import took 0.019279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/mixamo/remy.fbm/Remy_Shoes_Opacity.png
+  artifactKey: Guid(b4d84b910b041db438a4ab5b2ee782da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mixamo/remy.fbm/Remy_Shoes_Opacity.png using Guid(b4d84b910b041db438a4ab5b2ee782da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '975d0b59cd73239c9a2e9bafb4849ee6') in 0.013184 seconds 
+  Import took 0.016675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/mixamo/remy.fbm/Remy_Bottom_Diffuse.png
+  artifactKey: Guid(df92d3845045a624285e15ce64a062c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mixamo/remy.fbm/Remy_Bottom_Diffuse.png using Guid(df92d3845045a624285e15ce64a062c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e44098de0cda7425bf086c0b3ceed8fa') in 0.012333 seconds 
+  Import took 0.018227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/mixamo/remy.fbm/Remy_Body_Normal.png
+  artifactKey: Guid(e2586ecc518ff7047b5ac7460048ee3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mixamo/remy.fbm/Remy_Body_Normal.png using Guid(e2586ecc518ff7047b5ac7460048ee3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '720688f31643f4a60633e4e30d56026d') in 0.022400 seconds 
+  Import took 0.027412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/mixamo/remy.fbm/Remy_Hair_Normal.png
+  artifactKey: Guid(0a308e866f391d74da937b4a294db31c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mixamo/remy.fbm/Remy_Hair_Normal.png using Guid(0a308e866f391d74da937b4a294db31c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16ca90ae458956dfe16d7195d0c47e86') in 0.013979 seconds 
+  Import took 0.018816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/mixamo/remy.fbm/Remy_Hair_Specular.png
+  artifactKey: Guid(4bb86bc8151327649b54aad5f10cda0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mixamo/remy.fbm/Remy_Hair_Specular.png using Guid(4bb86bc8151327649b54aad5f10cda0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78ff7f2012405f3d6158fe5ce3e07cce') in 0.013538 seconds 
+  Import took 0.018572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/mixamo/remy.fbm/Remy_Shoes_Diffuse.png
+  artifactKey: Guid(d821651886bd1f545a245b4474939773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mixamo/remy.fbm/Remy_Shoes_Diffuse.png using Guid(d821651886bd1f545a245b4474939773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fc64a5668235571b862c62922a06c44') in 0.014247 seconds 
+  Import took 0.018868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/mixamo/remy.fbm/Remy_Top_Opacity.png
+  artifactKey: Guid(55a522685edc87540ae88145a933e9b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mixamo/remy.fbm/Remy_Top_Opacity.png using Guid(55a522685edc87540ae88145a933e9b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7b8de662d153700250f6a961ab0b3bb') in 0.017986 seconds 
+  Import took 0.023361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000420 seconds.
+  path: Assets/mixamo/remy.fbm/Remy_Bottom_Opacity.png
+  artifactKey: Guid(b1ffccb51ffcc16478d7d3189bb286e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mixamo/remy.fbm/Remy_Bottom_Opacity.png using Guid(b1ffccb51ffcc16478d7d3189bb286e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0d6169c5719a0c2d69eeace83c66387') in 0.016596 seconds 
+  Import took 0.022131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/mixamo/remy.fbm/Remy_Shoes_Gloss.png
+  artifactKey: Guid(91ed50c3a99fad4468e4ec341d05c686) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mixamo/remy.fbm/Remy_Shoes_Gloss.png using Guid(91ed50c3a99fad4468e4ec341d05c686) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6542ae1926347e63e0e1faff634aa3fc') in 0.015960 seconds 
+  Import took 0.021062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/mixamo/remy.fbm/Remy_Hair_Diffuse.png
+  artifactKey: Guid(8cc7b6242d419bb4480c073540a3da3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mixamo/remy.fbm/Remy_Hair_Diffuse.png using Guid(8cc7b6242d419bb4480c073540a3da3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbd52807fa77a2c01ade5c72c612fdd7') in 0.014864 seconds 
+  Import took 0.021882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/mixamo/remy.fbm/Remy_Shoes_Normal.png
+  artifactKey: Guid(1bf25e766dd16034093aac8ceb9ee2f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mixamo/remy.fbm/Remy_Shoes_Normal.png using Guid(1bf25e766dd16034093aac8ceb9ee2f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a1ee109b225176512dd19140f925aae') in 0.015306 seconds 
+  Import took 0.020196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/mixamo/remy.fbm/Remy_Body_Specular.png
+  artifactKey: Guid(cf2bca5622c8708429083f798f3d1a75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mixamo/remy.fbm/Remy_Body_Specular.png using Guid(cf2bca5622c8708429083f798f3d1a75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a433f7ca4e1f00a27d9ec14b51e6e3e4') in 0.020247 seconds 
+  Import took 0.025715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/mixamo/remy.fbm/Remy_Bottom_Gloss.png
+  artifactKey: Guid(74401d8c31e52814192bfc52c92076bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mixamo/remy.fbm/Remy_Bottom_Gloss.png using Guid(74401d8c31e52814192bfc52c92076bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a5a27c60e2a1555f0980b871907eda6') in 0.015111 seconds 
+  Import took 0.020091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/mixamo/remy.fbm/Remy_Shoes_Specular.png
+  artifactKey: Guid(be1c19a8950175043bc4f57ad2a88e12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mixamo/remy.fbm/Remy_Shoes_Specular.png using Guid(be1c19a8950175043bc4f57ad2a88e12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbf0bb804d6b4f2fe4907eb92ef840bf') in 0.014175 seconds 
+  Import took 0.018020 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/mixamo/remy.fbm/Remy_Top_Diffuse.png
+  artifactKey: Guid(a0f3d1855e663fc498c83e8d0b06e61e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mixamo/remy.fbm/Remy_Top_Diffuse.png using Guid(a0f3d1855e663fc498c83e8d0b06e61e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8324daac1ee1b4e0892afa892e822421') in 0.015862 seconds 
+  Import took 0.020800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/mixamo/remy.fbm/Remy_Top_Normal.png
+  artifactKey: Guid(b10449733239ba1449bf97629af402f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mixamo/remy.fbm/Remy_Top_Normal.png using Guid(b10449733239ba1449bf97629af402f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93d47e0d60e0bb40f38eee0c5ea2e43a') in 0.014235 seconds 
+  Import took 0.019802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/mixamo/remy.fbm/Remy_Hair_Gloss.png
+  artifactKey: Guid(e31da3ba46eb9c043bba9c16f8557d43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mixamo/remy.fbm/Remy_Hair_Gloss.png using Guid(e31da3ba46eb9c043bba9c16f8557d43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7fb55eb48392ad52a188eec5eed8352') in 0.013195 seconds 
+  Import took 0.018941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000460 seconds.
+  path: Assets/mixamo/remy.fbm/Remy_Body_Gloss.png
+  artifactKey: Guid(ff1fe5f1cb3b1374d80a61e479f2a784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mixamo/remy.fbm/Remy_Body_Gloss.png using Guid(ff1fe5f1cb3b1374d80a61e479f2a784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ca5ab20eb9788c8c4d98cc49e5332d1') in 0.017441 seconds 
+  Import took 0.023800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/mixamo/remy.fbm/Remy_Top_Specular.png
+  artifactKey: Guid(37c28528cfeaa3b45bd3f2008670371f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mixamo/remy.fbm/Remy_Top_Specular.png using Guid(37c28528cfeaa3b45bd3f2008670371f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '796d22eb4dd67cedf201f6759592b872') in 0.016470 seconds 
+  Import took 0.020673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/mixamo/remy.fbm/Remy_Hair_Gloss.png
+  artifactKey: Guid(e31da3ba46eb9c043bba9c16f8557d43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mixamo/remy.fbm/Remy_Hair_Gloss.png using Guid(e31da3ba46eb9c043bba9c16f8557d43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7fb55eb48392ad52a188eec5eed8352') in 0.014143 seconds 
+  Import took 0.018670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.028214 seconds.
+  path: Assets/mixamo/remy.fbm/Remy_Top_Specular.png
+  artifactKey: Guid(37c28528cfeaa3b45bd3f2008670371f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mixamo/remy.fbm/Remy_Top_Specular.png using Guid(37c28528cfeaa3b45bd3f2008670371f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '796d22eb4dd67cedf201f6759592b872') in 0.012297 seconds 
+  Import took 0.017117 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
